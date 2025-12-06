@@ -19,6 +19,7 @@ Simple and user-friendly command-line interface.
 Clone the repository:
 
 git clone https://github.com/Yel1oww/network-pinger
+
 cd network-pinger
 
 Install dependencies:
